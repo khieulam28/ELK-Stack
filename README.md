@@ -177,3 +177,5 @@ Key visualizations:
 - Add alerting (Email / Slack)  
 - Expand attack scenarios  
 - Improve detection rules & tuning  
+
+Link demo: https://drive.google.com/drive/folders/1QKejGQc3VxcD0TcrGJ7kGwbQQTJ2fWcK?usp=sharing
