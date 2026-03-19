@@ -21,7 +21,7 @@ The goal of this lab is to simulate real-world attack scenarios and monitor how 
 ---
 
 ## 🌐 Network Topology
-![Network Topology](network-topology.png)
+![Network Topology](topology.png)
 
 The lab simulates an enterprise network with external attacker and internal monitoring system.
 
